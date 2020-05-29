@@ -16,8 +16,10 @@ body {
 	padding: 0 45px 20px;
 }
 .zet{
+	color: transparent; 
+}
+.zet :hover{
 	color: rgb(152,173,166);
-
 }
 
 /* Write all remaining styles here */
