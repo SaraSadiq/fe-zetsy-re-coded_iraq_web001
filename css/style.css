@@ -23,7 +23,7 @@ body {
 .heading :hover{
 	color: rgb(152,173,166);
 }
-#bord{
+#borde{
 	border: 5px solid grey;
 }
 .ABPRE{
@@ -34,5 +34,11 @@ body {
 .news{
 	display: inline-block;
 
+}
+#bord{
+	border: 5px solid grey;
+}
+#bord :hover{
+	color:rgb(152,173,166);
 }
 /* Write all remaining styles here */
