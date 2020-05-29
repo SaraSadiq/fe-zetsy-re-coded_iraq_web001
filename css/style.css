@@ -39,6 +39,6 @@ body {
 	border: 5px solid grey;
 }
 #bord :hover{
-	color:rgb(152,173,166);
+	color:rgb(152,173,0);
 }
 /* Write all remaining styles here */
