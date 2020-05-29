@@ -36,7 +36,7 @@ body {
 
 }
 #bord{
-	border: 5px solid grey;
+	border: 5px solid black;
 }
 #bord :hover{
 	color:rgb(152,173,0);
