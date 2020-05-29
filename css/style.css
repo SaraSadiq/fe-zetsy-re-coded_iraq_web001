@@ -33,7 +33,7 @@ body {
 }
 .news{
 	display: inline-block;
-
+color: red;
 }
 #bord{
 	border: 5px solid black;
