@@ -31,4 +31,8 @@ body {
 	font-size: 20px;
 	width: 125px;
 }
+.news{
+	display: inline-block;
+	
+}
 /* Write all remaining styles here */
