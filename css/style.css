@@ -17,9 +17,11 @@ body {
 }
 .zet{
 	color: black;
+	font-size: 25px;
 }
 .zet :hover{
 	color: rgb(152,173,166);
+	
 }
 
 /* Write all remaining styles here */
