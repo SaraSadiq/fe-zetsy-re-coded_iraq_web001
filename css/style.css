@@ -22,7 +22,8 @@ body {
 }
 .zet :hover{
 	color: rgb(152,173,166);
-
 }
-
+#bord{
+	border: 20px;
+}
 /* Write all remaining styles here */
