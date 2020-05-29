@@ -37,7 +37,7 @@ body {
 #bord{
 	border: 5px solid black;
 }
-#bord ::hover{
+#bord ::after:hover{
 	border-color:  white;
 }
 /* Write all remaining styles here */
