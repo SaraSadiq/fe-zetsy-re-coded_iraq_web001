@@ -24,6 +24,6 @@ body {
 	color: rgb(152,173,166);
 }
 #bord{
-	border: 20px;
+	border-width: thin;
 }
 /* Write all remaining styles here */
