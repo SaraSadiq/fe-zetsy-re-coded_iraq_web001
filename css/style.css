@@ -26,4 +26,9 @@ body {
 #bord{
 	border: 5px solid grey;
 }
+.ABPRE{
+	color: black;
+	font-size: 25px;
+	width: 125px;
+}
 /* Write all remaining styles here */
