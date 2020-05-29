@@ -18,6 +18,7 @@ body {
 .zet{
 	color: black;
 	font-size: 25px;
+	width: auto;
 }
 .zet :hover{
 	color: rgb(152,173,166);
