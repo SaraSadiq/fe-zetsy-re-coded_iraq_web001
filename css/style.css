@@ -39,6 +39,6 @@ body {
 	border: 5px solid black;
 }
 #bord :hover{
-	border-color:  rgb(152,173,0);
+	border-color:  white;
 }
 /* Write all remaining styles here */
